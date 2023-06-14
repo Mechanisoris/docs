@@ -109,3 +109,4 @@ If you observe that your changes aren't being applied when you refresh, try your
 ## Next steps
 
 Next, let's [allow our blocks to take in arguments](./inputs).
+When you don't know JS yet, learn it.
